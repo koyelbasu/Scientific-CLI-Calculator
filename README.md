@@ -1,7 +1,6 @@
 <img src="https://tse3.mm.bing.net/th/id/OIP.lUWVCC1HlyzfwU1TDa07DQHaHa?pid=Api&P=0&h=180" alt="" align="center" width="auto" height="auto"><h1 align="center">Scientific CLI Calculator</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
-<img src="https://repolaunch.vercel.app/assets/img/yt.webp" alt="" align="center" width="auto" height="auto">
 
 ## Project Description
 
@@ -18,3 +17,9 @@
 ## Tech Stack
 
 🛠️**Build With** Only with the help of Python
+
+## Acknowledgements
+Made it just for fun.
+The Logo is collected from Google.
+## Made With
+Made with❤️ Koyel Basu
