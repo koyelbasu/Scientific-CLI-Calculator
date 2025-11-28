@@ -2,24 +2,24 @@
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 
-## Project Description
+## 🎗Project Description
 
 🚀 **Scientific CLI Calculator** Perform complex calculations right from your command line! ✨ **Overview** The Scientific CLI Calculator is a lightweight yet powerful command-line interface tool . It is a very basic project and beginner friendly. It is just my first try.
 
-## Key Components
+## 📍Key Components
 
 📦 **Installation** This calculator is built using \[mention the language, e.g., Python\] and can be easily installed via \[mention the package manager, e.g., pip\].
 
-## Key Features
+## 🌟Key Features
 
 🌟 **Features** Standard Arithmetic: Supports addition, subtraction, multiplication, and division.Scientific Functions: Includes sin(), cos(), tan(), log(), ln(), square roots (sqrt()), and exponentiation (x^y). User-Friendly Interface: Simple and intuitive command syntax.
 
-## Tech Stack
+## 🛠Tech Stack
 
 🛠️**Build With** Only with the help of Python
 
 ## Acknowledgements
 Made it just for fun.
 The Logo is collected from Google.
-## Made With
+## 🤝Made With
 Made with❤️ Koyel Basu
